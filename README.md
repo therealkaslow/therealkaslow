@@ -5,11 +5,14 @@ Seja Bem Vindo ao meu Perfil!!!
   === {Sou um jovem muito curioso com tecnologias e gosto de aprender constantemente} 😜👏 ==
   
   === {Aproveitem Bastante esse meu perfil que ainda vou ajudar muita gente pelo mundo da tecnologia haha} 💖✌👌 ===
-    < div >
-    <a href="https://github.com/therealkaslow">
+  
+  <div>
+ 
+   <a href="https://github.com/therealkaslow">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therealkaslow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealkaslow&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
+  
+ <div>
     
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
