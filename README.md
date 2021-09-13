@@ -1,9 +1,7 @@
 Seja Bem Vindo ao meu Perfil!!!
 
   === {Hoje estou estudando na Generation Brasil e Sendo um Futuro Desenvolvedor Java Full Stack Jr}❤🐱‍👤 ===
-  
-  === {Sou um jovem muito currioso com tecnologias e disposto a aprender constantemente} 😜👏 ===
-               
+  === {Sou um jovem muito curioso com tecnologias e gosto de aprender constantemente} 😜👏 == 
   === {Aproveitem Bastante esse meu perfil que ainda vou ajudar muita gente pelo mundo da tecnologia haha} 💖✌👌 ===
     < div >
     <a href="https://github.com/therealkaslow">
