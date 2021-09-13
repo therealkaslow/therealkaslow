@@ -1,4 +1,4 @@
-Seja Bem Vindo ao meu Perfil!!!
+  |{Oii !! Eu Sou o Lucas Reis!}|
 
   === {Hoje estou estudando na Generation Brasil e Sendo um Futuro Desenvolvedor Java Full Stack Jr}❤🐱‍👤 ===
   
@@ -9,9 +9,14 @@ Seja Bem Vindo ao meu Perfil!!!
   <div>
  
    <a href="https://github.com/therealkaslow">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therealkaslow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealkaslow&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=therealkaslow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealkaslow&layout=compact&langs_count=7&theme=dracula"/>
   
+   ![Snake animation](https://github.com/therealkaslow/therealkaslow/blob/output/github-contribution-grid-snake.svg)
+ 
+  </div>   
+     
+     
  <div>
     
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +32,4 @@ Seja Bem Vindo ao meu Perfil!!!
   <a href = "mailto:lucasreis727@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-reis-539611152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/therealkaslow/therealkaslow/blob/output/github-contribution-grid-snake.svg)
- 
-</div>                                        
+                                     
