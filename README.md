@@ -1,6 +1,6 @@
   |{Oii !! Eu Sou o Lucas Reis!}|
 
-  === {Hoje estou estudando na Generation Brasil e Sendo um Futuro Desenvolvedor Java Full Stack Jr}❤🐱‍👤 ===
+  === {Eu estudei na Generation Brasil e me tornei um Desenvolvedor Java Full Stack Jr}❤🐱‍👤 ===
   
   === {Sou um jovem muito curioso com tecnologias e gosto de aprender constantemente} 😜👏 ==
   
