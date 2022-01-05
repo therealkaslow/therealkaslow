@@ -21,7 +21,8 @@
     
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  <img width="256" height="256" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript free icon" title="Typescript free icon" class="loaded">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  
 
 </div>
   
